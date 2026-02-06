@@ -1,0 +1,7 @@
+git remote -v (list remotes)
+git remote and origin <url> (connect local to remote)
+git clone <url> (copy the remote to local)
+git fetch origin (download updates - no merge)
+git pull origin main (fetch + merge)
+git push origin main (upload commits to remote)
+git push -u origin main (push and set upstream)

@@ -1,0 +1,4 @@
+git show <commit> (show commit details)
+git reflog (view HEAD histoy)
+git config --global user.name '...' (set username)
+git config --global user.email '...' (set email)

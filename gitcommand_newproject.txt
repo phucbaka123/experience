@@ -1,0 +1,15 @@
+New project -> github: 
+git init
+git add
+git commit -m '__sth__'
+git remote add orgin <url>
+git push -u origin main
+
+Exist Githubrepo -> local:
+git clone <url>
+
+Update local code:
+git pull
+
+
+

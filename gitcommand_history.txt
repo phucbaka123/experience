@@ -1,0 +1,6 @@
+git merge origin/main (merge remote branch)
+git merge --allow-unrelated-histories (force merge different histories)
+git reset --hard <commit> (reset branch and discard changes)
+git reset --hard origin/main (match local branch to remote)
+git revert <commit> (undo a commit safely with history for commit)
+

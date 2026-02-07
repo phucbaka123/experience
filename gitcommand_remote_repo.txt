@@ -5,3 +5,5 @@ git fetch origin (download updates - no merge)
 git pull origin main (fetch + merge)
 git push origin main (upload commits to remote)
 git push -u origin main (push and set upstream)
+git push -u origin <branch> (push, set upsteam, and create branch on remote repo
+
